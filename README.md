@@ -1,4 +1,4 @@
-# AF_Airbnb
+# SF_Airbnb
 UC Berkeley Data144 (Data Mining Analytics) Fall 2020 final project
 
 ## Project Overview
